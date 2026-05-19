@@ -1,0 +1,210 @@
+Feature,Importance
+num__National Award,0.03099494
+cat__School_Illinois,0.020555167
+cat__School_Maryland,0.019191712
+cat__School_Arkansas,0.018661883
+cat__School_Missouri,0.017787617
+cat__School_Oregon St.,0.017073443
+cat__School_Alabama,0.016819704
+cat__School_Mississippi,0.015757302
+cat__School_Tulane,0.0152129615
+cat__School_Purdue,0.014692526
+cat__School_Iowa,0.013724671
+cat__School_Texas,0.013679963
+cat__School_Auburn,0.013349251
+cat__Conference_Mountain West,0.013119438
+cat__Position_QB,0.012920053
+cat__School_Kentucky,0.012688509
+cat__School_North Dakota St.,0.0125608165
+cat__School_Stanford,0.012243443
+cat__Position_OT,0.012236398
+cat__Position_IOL,0.012036766
+cat__School_Washington,0.0120092835
+num__Combine Participation,0.011981275
+cat__Conference_AAC,0.011485221
+cat__Position_LB,0.011457141
+cat__Position Group_DL,0.011328944
+cat__School_Texas A&M,0.011251652
+num__40-Yard Dash (seconds),0.011138079
+cat__School_Pittsburgh,0.011045459
+cat__Position_EDGE,0.010994086
+num__Broad Jump (inches),0.010941784
+cat__Position_S,0.010812009
+num__Weight(lbs),0.010735052
+cat__School_Virginia Tech,0.010701263
+cat__Position Group_Secondary,0.010584039
+num__FPI,0.0105658565
+num__Arm (inches),0.010444693
+cat__Position_C,0.01044453
+cat__School_South Carolina,0.010395392
+cat__Position Group_Skill,0.0103902165
+num__ELO,0.010381414
+num__Height (inches),0.01037917
+num__Efficiencies Overall,0.010343224
+cat__School_Florida,0.01025106
+num__Vertical (inches),0.010121764
+cat__Position_TE,0.010089874
+cat__Conference_SEC,0.0100623425
+num__Wingspan (inches),0.010047904
+cat__Conference_Pac-12,0.009947628
+num__3-Cone (seconds),0.00992253
+num__Efficiencies Offense,0.009859682
+num__Efficiencies SpecialTeams,0.009819785
+cat__School_LSU,0.009806561
+num__Shuttle (seconds),0.009799228
+num__Bench (reps),0.009795308
+cat__School_Tennessee,0.0097043365
+cat__School_UCLA,0.009580355
+cat__Position_WR,0.009571705
+cat__Position_RB,0.009561729
+num__Hand (inches),0.009465457
+cat__School_Notre Dame,0.00927072
+num__Efficiencies Defense,0.009214865
+cat__School_Ohio State,0.009184675
+cat__School_Louisville,0.009144174
+cat__Conference_MAC,0.009085565
+cat__Position Group_LB,0.009057337
+cat__School_Oregon,0.009041988
+cat__School_Michigan,0.008861898
+cat__School_North Carolina,0.0087252185
+cat__School_Wisconsin,0.008678963
+cat__School_Florida St.,0.008508415
+num__Season,0.00847846
+cat__Conference_Sun Belt,0.008402913
+cat__School_USC,0.008365399
+num__CFP Appearance,0.008296375
+cat__Conference_Big 12,0.008285492
+cat__School_Syracruse,0.0080402065
+cat__Position Group_OL,0.0077584926
+cat__School_Wake Forest,0.0077031613
+cat__Position_CB,0.0076193362
+cat__School_Georgia,0.0074684746
+cat__Conference_ACC,0.0074228225
+cat__Conference_Big Ten,0.007148596
+cat__School_Oklahoma,0.006933386
+cat__Position Group_Special Teams,0.006917074
+cat__School_TCU,0.0067814705
+cat__School_Utah,0.0064558988
+cat__School_Kansas,0.006047431
+cat__Position_DL,0.006035151
+cat__Conference_MVFC,0.0057770163
+cat__School_Syracuse,0.0057319724
+cat__School_Minnesota,0.005633557
+cat__Conference_FBS Independent,0.0054252828
+cat__School_Clemson,0.0053492165
+cat__School_Ohio St.,0.0044674072
+cat__Position_P,0.0037447598
+cat__School_Miami,0.0032668498
+cat__School_Kansas St.,0.0026109754
+cat__School_West Virginia,0.0025354694
+cat__School_East Carolina,0.0
+cat__School_Jacksonville State,0.0
+cat__School_Iowa State,0.0
+cat__School_Houston Christian University,0.0
+cat__School_Houston,0.0
+cat__School_Indiana,0.0
+cat__School_Iowa St.,0.0
+cat__School_Holy Cross,0.0
+cat__School_Georgia Tech,0.0
+cat__School_Eastern Michigan,0.0
+cat__School_Flordia State,0.0
+cat__School_Florida A&M,0.0
+cat__School_Florida State,0.0
+cat__School_Fresno St.,0.0
+cat__School_Georgia St.,0.0
+cat__School_Air Force,0.0
+cat__School_Ball St.,0.0
+cat__School_BYU,0.0
+cat__School_Army,0.0
+cat__School_Arizona,0.0
+cat__School_Arizona St.,0.0
+cat__School_Alabama A&M,0.0
+cat__School_Alabama-Birmingham,0.0
+cat__School_Boise State,0.0
+cat__School_California,0.0
+cat__School_Buffalo,0.0
+cat__School_Bowling Green,0.0
+cat__School_Boise St.,0.0
+cat__School_Boston Col.,0.0
+cat__School_Baylor,0.0
+cat__Position_FB,0.0
+cat__Position_K,0.0
+cat__School_Duke,0.0
+cat__School_Delaware,0.0
+cat__School_Eastern Kentucky,0.0
+cat__School_Connecticut,0.0
+cat__School_Ferris St.,0.0
+cat__School_Eastern Washington,0.0
+cat__School_Boston College,0.0
+cat__School_Central Florida,0.0
+cat__School_Central Michigan,0.0
+cat__School_Cincinnati,0.0
+cat__School_Cinncinnati,0.0
+cat__School_Coastal Carolina,0.0
+cat__School_Colorado,0.0
+cat__School_Colorado St.,0.0
+cat__School_Colorado State,0.0
+cat__School_Louisiana,0.0
+cat__School_Kansas State,0.0
+cat__School_UCF,0.0
+cat__School_Toledo,0.0
+cat__School_Texas-El Paso,0.0
+cat__School_Troy,0.0
+cat__School_Toldeo,0.0
+cat__School_Oregon State,0.0
+cat__School_Rice,0.0
+cat__School_Rutgers,0.0
+cat__School_Sacramento State,0.0
+cat__School_SMU,0.0
+cat__School_Shepherd,0.0
+cat__School_South Alabama,0.0
+cat__School_South Dakota St.,0.0
+cat__School_Southern Mississippi,0.0
+cat__School_Penn St.,0.0
+cat__School_Princeton,0.0
+cat__School_Penn State,0.0
+cat__School_Mississippi St.,0.0
+cat__School_Michigan St.,0.0
+cat__School_Lousiville,0.0
+cat__School_Louisiana Tech,0.0
+cat__School_Nebraska,0.0
+cat__School_Northwestern,0.0
+cat__School_North Dakota State,0.0
+cat__School_New Hampshire,0.0
+cat__School_North Carolina St.,0.0
+cat__School_Oklahoma St.,0.0
+cat__School_Oklahoma State,0.0
+cat__School_Old Dominion,0.0
+cat__School_Ole Miss,0.0
+cat__School_Marshall,0.0
+cat__School_Memphis,0.0
+cat__School_NC State,0.0
+cat__School_Navy,0.0
+cat__School_Monmouth,0.0
+cat__School_Texas Tech,0.0
+cat__School_Temple,0.0
+cat__Conference_CIAA,0.0
+cat__Conference_Ivy League,0.0
+cat__Conference_GLIAC,0.0
+cat__Conference_Conference USA,0.0
+cat__School_University of Arkansas at Pine Bluff,0.0
+cat__School_Virginia St.,0.0
+cat__School_Washington St.,0.0
+cat__School_Washington State,0.0
+cat__School_Western Kentucky,0.0
+cat__School_UNLV,0.0
+cat__School_UTSA,0.0
+cat__School_Vanderbilt,0.0
+cat__School_Virginia,0.0
+cat__Conference_Big Sky,0.0
+cat__Conference_CAA,0.0
+cat__School_Western Michigan,0.0
+cat__School_Yale,0.0
+cat__School_William & Mary,0.0
+cat__School_Wyoming,0.0
+cat__School_Utah State,0.0
+cat__Conference_Southland,0.0
+cat__Conference_PSAC,0.0
+cat__Conference_UAC,0.0
+cat__Conference_Patriot League,0.0
+cat__Conference_SWAC,0.0
