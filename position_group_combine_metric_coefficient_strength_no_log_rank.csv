@@ -1,0 +1,56 @@
+Position Group,Metric,Coefficient Strength
+Skill,Hand (inches),0.3399261775736873
+Skill,3-Cone (seconds),0.16244521740347134
+Skill,Wingspan (inches),0.11146308623651908
+Skill,Vertical (inches),0.10747958849071539
+Skill,40-Yard Dash (seconds),0.09723426497033316
+Skill,Broad Jump (inches),0.06828643078236482
+Skill,Shuttle (seconds),0.05079131577658943
+Skill,Arm (inches),0.044488519987966824
+Skill,Bench (reps),0.03082113486475761
+Skill,Height (inches),0.026038190034726037
+Skill,Weight(lbs),0.015262569673145454
+Secondary,3-Cone (seconds),0.8102826412935185
+Secondary,Hand (inches),0.6409406448915749
+Secondary,Arm (inches),0.6048490335455713
+Secondary,40-Yard Dash (seconds),0.44404401059300413
+Secondary,Shuttle (seconds),0.2683687357381922
+Secondary,Wingspan (inches),0.23602638015322613
+Secondary,Vertical (inches),0.2047870183332449
+Secondary,Height (inches),0.19141777879434926
+Secondary,Bench (reps),0.10302077243080343
+Secondary,Broad Jump (inches),0.07367850893093197
+Secondary,Weight(lbs),0.00848792748732419
+DL,40-Yard Dash (seconds),1.0781344400798087
+DL,3-Cone (seconds),0.22357783117695343
+DL,Vertical (inches),0.1407528284942523
+DL,Hand (inches),0.12673517245581767
+DL,Arm (inches),0.11760994623548174
+DL,Height (inches),0.10701447001712386
+DL,Shuttle (seconds),0.09824015544006026
+DL,Wingspan (inches),0.09604611164557908
+DL,Broad Jump (inches),0.05801189480012342
+DL,Weight(lbs),0.04181022764175243
+DL,Bench (reps),0.0003197555202370508
+OL,40-Yard Dash (seconds),0.6299900299202748
+OL,Hand (inches),0.5847642885532728
+OL,Shuttle (seconds),0.4966573632214318
+OL,3-Cone (seconds),0.38760077175997326
+OL,Arm (inches),0.16514673660961005
+OL,Wingspan (inches),0.09386731182734624
+OL,Height (inches),0.06384392041779477
+OL,Broad Jump (inches),0.05311710869309797
+OL,Vertical (inches),0.04652005055682377
+OL,Weight(lbs),0.02373182983425741
+OL,Bench (reps),0.007752925634221628
+LB,Hand (inches),1.2817679056081939
+LB,3-Cone (seconds),0.9446043301647391
+LB,Shuttle (seconds),0.9006439190905129
+LB,Height (inches),0.32641585288228026
+LB,40-Yard Dash (seconds),0.29730377661847723
+LB,Wingspan (inches),0.15475531032304277
+LB,Broad Jump (inches),0.1274098351659411
+LB,Weight(lbs),0.1249146584692818
+LB,Bench (reps),0.05886240254050043
+LB,Arm (inches),0.04239140118937035
+LB,Vertical (inches),0.009068055664255305
