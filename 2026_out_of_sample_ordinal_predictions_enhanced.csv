@@ -1,0 +1,308 @@
+Season,Player,Position,Position Group,Conference,Overall Pick,Actual Tier Number,Predicted Tier Number,Actual Tier,Predicted Tier,Correct,Ordinal Error
+2026,Chris Adams,OT,OL,AAC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Austin Barber,OT,OL,SEC,86,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Markel Bell,OT,OL,ACC,68,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Jude Bowry,OT,OL,ACC,102,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Travis Burke,OT,OL,AAC,117,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,Kage Casey,OT,OL,Mountain West,111,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Dametrious Crownover,OT,OL,SEC,196,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Enrique Cruz Jr.,OT,OL,Big 12,179,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,J.C. Davis,OT,OL,Big Ten,192,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Fa'alili Fa'amoe,OT,OL,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Spencer Fano,OT,OL,Big 12,9,0,0,Round 1,Round 1,Correct,0
+2026,Monroe Freeling,OT,OL,SEC,19,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,Alan Herron,OT,OL,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Max Iheanachor,OT,OL,Big 12,21,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,Caleb Lomu,OT,OL,Big 12,28,0,0,Round 1,Round 1,Correct,0
+2026,Francis Mauigoa,OT,OL,ACC,10,0,0,Round 1,Round 1,Correct,0
+2026,Blake Miller,OT,OL,ACC,17,0,2,Round 1,Rounds 4-5,Incorrect,2
+2026,Diego Pounds,OT,OL,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Kadyn Proctor,OT,OL,SEC,12,0,0,Round 1,Round 1,Correct,0
+2026,Drew Shelton,OT,OL,Big Ten,112,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Caleb Tiernan,OT,OL,Big Ten,97,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Keagen Trost,OT,OL,SEC,93,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Aamil Wagner,OT,OL,FBS Independent,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Carver Willis,OT,OL,Big Ten,127,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Sonny Styles,LB,LB,Big Ten,7,0,0,Round 1,Round 1,Correct,0
+2026,Anthony Hill,LB,LB,SEC,60,1,0,Rounds 2-3,Round 1,Incorrect,1
+2026,Jake Golday,LB,LB,Big 12,51,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Josiah Trotter,LB,LB,SEC,46,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,CJ Allen,LB,LB,SEC,53,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Kyle Louis,LB,LB,ACC,138,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Jacob Rodriguez,LB,LB,Big 12,43,1,0,Rounds 2-3,Round 1,Incorrect,1
+2026,Lander Barton,LB,LB,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Harold Perkins Jr.,LB,LB,SEC,215,3,4,Rounds 6-7,Undrafted,Incorrect,1
+2026,Red Murdock,LB,LB,MAC,257,3,0,Rounds 6-7,Round 1,Incorrect,3
+2026,Keyshaun Elliott,LB,LB,Big 12,166,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Deontae Lawson,LB,LB,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Bryce Boettcher,LB,LB,Big Ten,135,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Taurean York,LB,LB,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Jimmy Rolder,LB,LB,Big Ten,118,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Aiden Fisher,LB,LB,Big Ten,243,3,1,Rounds 6-7,Rounds 2-3,Incorrect,2
+2026,Wade Woodaz,LB,LB,ACC,123,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,Jack Kelly,LB,LB,Big 12,193,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Kaleb Elarms-Orr,LB,LB,Big 12,126,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Scooby Williams,LB,LB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Justin Jefferson,LB,LB,SEC,149,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Xavian Sorey,LB,LB,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Namdi Obiazor,LB,LB,Big 12,212,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Owen Heinecke,LB,LB,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Kendal Daniels,LB,LB,SEC,134,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Eric Gentry,LB,LB,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Karson Sharar,LB,LB,Big Ten,183,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Wesley Bissainthe,LB,LB,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Rueben Bain Jr.,EDGE,DL,ACC,15,0,0,Round 1,Round 1,Correct,0
+2026,Arvell Reese,EDGE,DL,Big Ten,5,0,0,Round 1,Round 1,Correct,0
+2026,David Bailey,EDGE,DL,Big 12,2,0,0,Round 1,Round 1,Correct,0
+2026,Cashius Howell,EDGE,DL,SEC,41,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Akheem Mesidor,EDGE,DL,ACC,22,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,R Mason Thomas,EDGE,DL,SEC,40,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,T.J. Parker,EDGE,DL,ACC,35,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Anthony Lucas,EDGE,DL,Big Ten,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Malachi Lawrence,EDGE,DL,Big 12,23,0,2,Round 1,Rounds 4-5,Incorrect,2
+2026,Gabe Jacas,EDGE,DL,Big Ten,55,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Joshua Josephs,EDGE,DL,SEC,147,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Zion Young,EDGE,DL,SEC,45,1,4,Rounds 2-3,Undrafted,Incorrect,3
+2026,Romello Height,EDGE,DL,Big 12,70,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Keyron Crawford,EDGE,DL,SEC,67,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Derrick Moore,EDGE,DL,Big Ten,44,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Dani Dennis-Sutton,EDGE,DL,Big Ten,120,2,1,Rounds 4-5,Rounds 2-3,Incorrect,1
+2026,Nadame Tucker,EDGE,DL,MAC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Tyreak Sapp,EDGE,DL,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Wesley Williams,EDGE,DL,ACC,119,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Caden Curry,EDGE,DL,Big Ten,214,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Quintayvious Hutchins,EDGE,DL,ACC,247,3,4,Rounds 6-7,Undrafted,Incorrect,1
+2026,Trey Moore,EDGE,DL,SEC,130,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Vincent Anthony Jr.,EDGE,DL,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Logan Fano,EDGE,DL,Big 12,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Max Llewellyn,EDGE,DL,Big Ten,238,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,George Gumbs Jr.,EDGE,DL,SEC,156,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Patrick Payton,EDGE,DL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Aidan Hubbard,EDGE,DL,Big Ten,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Jack Pyburn,EDGE,DL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Marvin Jones Jr.,EDGE,DL,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Nyjalik Kelly,EDGE,DL,Big 12,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Mason Reiger,EDGE,DL,Big Ten,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Peter Woods,DL,DL,ACC,29,0,0,Round 1,Round 1,Correct,0
+2026,Lee Hunter,DL,DL,Big 12,49,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Kayden McDonald,DL,DL,Big Ten,36,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Keldric Faulk,DL,DL,SEC,31,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,Christen Miller,DL,DL,SEC,42,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Caleb Banks,DL,DL,SEC,18,0,2,Round 1,Rounds 4-5,Incorrect,2
+2026,Jaishawn Barham,DL,DL,Big Ten,92,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Chris McClellan,DL,DL,SEC,77,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Rayshaun Benny,DL,DL,Big Ten,250,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Domonique Orange,DL,DL,Big 12,82,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Dontae Corleone,DL,DL,Big 12,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Nick Barrett,DL,DL,SEC,145,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Darrell Jackson Jr.,DL,DL,ACC,103,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,LT Overton,DL,DL,SEC,137,2,0,Rounds 4-5,Round 1,Incorrect,2
+2026,Tim Keenan,DL,DL,SEC,232,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Zxavian Harris,DL,DL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Skyler Gill-Howard,DL,DL,Big 12,205,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Gracen Halton,DL,DL,SEC,107,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,DeMonte Capehart,DL,DL,ACC,155,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Albert Regis,DL,DL,SEC,81,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Tyler Onyedim,DL,DL,SEC,66,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Bryson Eason,DL,DL,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,David Gusta,DL,DL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Brandon Cleveland,DL,DL,ACC,229,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Zane Durant,DL,DL,Big Ten,181,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Damonic Williams,DL,DL,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Gary Smith III,DL,DL,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Cameron Ball,DL,DL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Bobby Jamison-Travis,DL,DL,SEC,186,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Deven Eastern,DL,DL,Big Ten,242,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Jackie Marshall,DL,DL,Big 12,184,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Caleb Downs,SAF,Secondary,Big Ten,11,0,0,Round 1,Round 1,Correct,0
+2026,Emmanuel McNeil-Warren,SAF,Secondary,MAC,58,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Dillon Thieneman,SAF,Secondary,Big Ten,25,0,0,Round 1,Round 1,Correct,0
+2026,Genesis Smith,SAF,Secondary,Big 12,131,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,A.J. Haulcy,SAF,Secondary,SEC,78,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Treydan Stukes,SAF,Secondary,Big 12,38,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Zakee Wheatley,SAF,Secondary,Big Ten,151,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Kamari Ramsey,SAF,Secondary,Big Ten,141,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Robert Spears-Jennings,SAF,Secondary,SEC,224,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Bud Clark,SAF,Secondary,Big 12,64,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Bishop Fitzgerald,SAF,Secondary,Big Ten,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,VJ Payne,SAF,Secondary,Big 12,228,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Michael Taaffe,SAF,Secondary,SEC,158,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Louis Moore,SAF,Secondary,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Lorenzo Styles,SAF,Secondary,Big Ten,172,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Jakobe Thomas,SAF,Secondary,ACC,98,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Jalon Kilgore,SAF,Secondary,SEC,167,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Xavier Nwankpa,SAF,Secondary,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,DeShon Singleton,SAF,Secondary,Big Ten,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Jalen Huskey,SAF,Secondary,Big Ten,100,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Ahmaad Moses,SAF,Secondary,ACC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Dalton Johnson,SAF,Secondary,Big 12,150,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Kenyon Sadiq,TE,Skill,Big Ten,16,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,Michael Trigg,TE,Skill,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Eli Stowers,TE,Skill,SEC,54,1,0,Rounds 2-3,Round 1,Incorrect,1
+2026,Nate Boerkircher,TE,Skill,SEC,56,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Max Klare,TE,Skill,Big Ten,61,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Josh Cuevas,TE,Skill,SEC,173,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Jack Endries,TE,Skill,SEC,221,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Eli Raridon,TE,Skill,FBS Independent,95,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Will Kacmarek,TE,Skill,Big Ten,87,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Oscar Delp,TE,Skill,SEC,73,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Joe Royer,TE,Skill,Big 12,170,3,4,Rounds 6-7,Undrafted,Incorrect,1
+2026,Dallen Bentley,TE,Skill,Big 12,256,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Marlin Klein,TE,Skill,Big Ten,59,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Justin Joly,TE,Skill,ACC,152,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Sam Roush,TE,Skill,ACC,69,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Dae'Quan Wright,TE,Skill,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Tanner Koziol,TE,Skill,Big 12,164,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,John Michael Gyllenborg,TE,Skill,Mountain West,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Miles Kitselman,TE,Skill,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Bauer Sharp,TE,Skill,SEC,185,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Matthew Hibner,TE,Skill,ACC,133,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,DJ Rogers,TE,Skill,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Lake McRee,TE,Skill,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Riley Nowakowski,TE,Skill,Big Ten,169,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,RJ Maryland,TE,Skill,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Jaren Kanak,TE,Skill,SEC,225,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Khalil Dinkins,TE,Skill,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Fernando Mendoza,QB,Skill,Big Ten,1,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,Ty Simpson,QB,Skill,SEC,13,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,Garrett Nussmeier,QB,Skill,SEC,249,3,4,Rounds 6-7,Undrafted,Incorrect,1
+2026,Cade Klubnik,QB,Skill,ACC,110,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,Drew Allar,QB,Skill,Big Ten,76,1,0,Rounds 2-3,Round 1,Incorrect,1
+2026,Carson Beck,QB,Skill,ACC,65,1,0,Rounds 2-3,Round 1,Incorrect,1
+2026,Behren Morton,QB,Skill,Big 12,234,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Sawyer Robertson,QB,Skill,Big 12,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Luke Altmyer,QB,Skill,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Taylen Green,QB,Skill,SEC,182,3,1,Rounds 6-7,Rounds 2-3,Incorrect,2
+2026,Jalon Daniels,QB,Skill,Big 12,300,4,1,Undrafted,Rounds 2-3,Incorrect,3
+2026,Diego Pavia,QB,Skill,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Haynes King,QB,Skill,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Joe Fagnano,QB,Skill,FBS Independent,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Joey Aguilar,QB,Skill,SEC,300,4,0,Undrafted,Round 1,Incorrect,4
+2026,Jermod McCoy,CB,Secondary,SEC,101,2,0,Rounds 4-5,Round 1,Incorrect,2
+2026,Avieon Terrell,CB,Secondary,ACC,48,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Mansoor Delane,CB,Secondary,SEC,6,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,Colton Hood,CB,Secondary,SEC,37,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Keith Abney,CB,Secondary,Big 12,157,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Chris Johnson,CB,Secondary,Mountain West,27,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,D'Angelo Ponds,CB,Secondary,Big Ten,50,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Keionte Scott,CB,Secondary,ACC,116,2,1,Rounds 4-5,Rounds 2-3,Incorrect,1
+2026,Brandon Cisse,CB,Secondary,SEC,52,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Devin Moore,CB,Secondary,SEC,114,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Julian Neal,CB,Secondary,SEC,99,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Will Lee III,CB,Secondary,SEC,129,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Malik Muhammad,CB,Secondary,SEC,124,2,0,Rounds 4-5,Round 1,Incorrect,2
+2026,Davison Igbinosun,CB,Secondary,Big Ten,62,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Daylen Everette,CB,Secondary,SEC,85,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Chandler Rivers,CB,Secondary,ACC,162,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Hezekiah Masses,CB,Secondary,ACC,175,3,4,Rounds 6-7,Undrafted,Incorrect,1
+2026,TJ Hall,CB,Secondary,Big Ten,219,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Domani Jackson,CB,Secondary,SEC,201,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Tacario Davis,CB,Secondary,Big Ten,72,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Thaddeus Dixon,CB,Secondary,ACC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Ephesians Prysock,CB,Secondary,Big Ten,139,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Jaylon Guilbeau,CB,Secondary,SEC,300,4,1,Undrafted,Rounds 2-3,Incorrect,3
+2026,Andre Fuller,CB,Secondary,MAC,236,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Jadon Canady,CB,Secondary,Big Ten,109,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Collin Wright,CB,Secondary,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Toriano Pride Jr.,CB,Secondary,SEC,220,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Ahmari Harvey,CB,Secondary,ACC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Latrell McCutchin,CB,Secondary,Big 12,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Avery Smith,CB,Secondary,MAC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Marcus Allen,CB,Secondary,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Jeremiyah Love,RB,Skill,FBS Independent,3,0,0,Round 1,Round 1,Correct,0
+2026,Jadarian Price,RB,Skill,FBS Independent,32,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,Kaytron Allen,RB,Skill,Big Ten,187,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Jonah Coleman,RB,Skill,Big Ten,108,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Demond Claiborne,RB,Skill,ACC,198,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Emmett Johnson,RB,Skill,Big Ten,161,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Mike Washington,RB,Skill,SEC,122,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Seth McGowan,RB,Skill,SEC,237,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Robert Henry,RB,Skill,AAC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Nicholas Singleton,RB,Skill,Big Ten,165,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Le'Veon Moss,RB,Skill,SEC,300,4,1,Undrafted,Rounds 2-3,Incorrect,3
+2026,Jam Miller,RB,Skill,SEC,245,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Desmond Reid,RB,Skill,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Eli Heidenreich,RB,Skill,AAC,230,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,J'Mari Taylor,RB,Skill,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Roman Hemby,RB,Skill,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Rahsul Faison,RB,Skill,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Max Bredeson,RB,Skill,Big Ten,159,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Adam Randall,RB,Skill,ACC,174,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,CJ Donaldson,RB,Skill,Big Ten,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Noah Whittington,RB,Skill,Big Ten,300,4,1,Undrafted,Rounds 2-3,Incorrect,3
+2026,Olaivavega Ioane,IOL,OL,Big Ten,14,0,2,Round 1,Rounds 4-5,Incorrect,2
+2026,Connor Lew,IOL,OL,SEC,128,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,Trey Zuhn III,IOL,OL,SEC,91,1,4,Rounds 2-3,Undrafted,Incorrect,3
+2026,Chase Bisontis,IOL,OL,SEC,34,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Emmanuel Pregnon,IOL,OL,Big Ten,88,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Gennings Dunker,IOL,OL,Big Ten,96,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Billy Schrauth,IOL,OL,FBS Independent,160,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Alex Harkey,IOL,OL,Big Ten,206,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Parker Brailsford,IOL,OL,SEC,146,2,0,Rounds 4-5,Round 1,Incorrect,2
+2026,Keylan Rutledge,IOL,OL,ACC,26,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,Jake Slaughter,IOL,OL,SEC,63,1,1,Rounds 2-3,Rounds 2-3,Correct,0
+2026,Brian Parker II,IOL,OL,ACC,189,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Jager Burton,IOL,OL,SEC,153,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Matt Gulbin,IOL,OL,Big Ten,209,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Logan Jones,IOL,OL,Big Ten,57,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Ar'maj Reed-Adams,IOL,OL,SEC,241,3,1,Rounds 6-7,Rounds 2-3,Incorrect,2
+2026,Jalen Farmer,IOL,OL,SEC,113,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,Pat Coogan,IOL,OL,Big Ten,194,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Beau Stephens,IOL,OL,Big Ten,148,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Sam Hecht,IOL,OL,Big 12,144,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,DJ Campbell,IOL,OL,SEC,200,3,1,Rounds 6-7,Rounds 2-3,Incorrect,2
+2026,Evan Beerntsen,IOL,OL,Big Ten,253,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Garrett DiGiorgio,IOL,OL,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Anez Cooper,IOL,OL,ACC,188,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Joshua Braun,IOL,OL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Jaeden Roberts,IOL,OL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Dillon Wade,IOL,OL,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Micah Morris,IOL,OL,SEC,207,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Febechi Nwaiwu,IOL,OL,SEC,106,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Fernando Carmona,IOL,OL,SEC,142,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,Logan Taylor,IOL,OL,ACC,202,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Jeremiah Wright,IOL,OL,SEC,132,2,4,Rounds 4-5,Undrafted,Incorrect,2
+2026,Jordyn Tyson,WR,Skill,Big 12,8,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,Carnell Tate,WR,Skill,Big Ten,4,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,Omar Cooper Jr.,WR,Skill,Big Ten,30,0,3,Round 1,Rounds 6-7,Incorrect,3
+2026,Makai Lemon,WR,Skill,Big Ten,20,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,KC Concepcion,WR,Skill,SEC,24,0,1,Round 1,Rounds 2-3,Incorrect,1
+2026,Denzel Boston,WR,Skill,Big Ten,39,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Germie Bernard,WR,Skill,SEC,47,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Brenen Thompson,WR,Skill,SEC,105,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Zachariah Branch,WR,Skill,SEC,79,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Chris Brazzell II,WR,Skill,SEC,83,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Malachi Fields,WR,Skill,FBS Independent,74,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Eric McAlister,WR,Skill,Big 12,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Antonio Williams,WR,Skill,ACC,71,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Elijah Sarratt,WR,Skill,Big Ten,115,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Chris Bell,WR,Skill,ACC,94,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Kevin Coleman Jr.,WR,Skill,SEC,177,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Eric Rivers,WR,Skill,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Josh Cameron,WR,Skill,Big 12,191,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Vinny Anthony II,WR,Skill,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Skyler Bell,WR,Skill,FBS Independent,125,2,0,Rounds 4-5,Round 1,Incorrect,2
+2026,Ted Hurst,WR,Skill,Sun Belt,84,1,4,Rounds 2-3,Undrafted,Incorrect,3
+2026,Jeff Caldwell,WR,Skill,Big 12,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Reggie Virgil,WR,Skill,Big 12,143,2,3,Rounds 4-5,Rounds 6-7,Incorrect,1
+2026,Ja'Kobi Lane,WR,Skill,Big Ten,80,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Deion Burks,WR,Skill,SEC,254,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Barion Brown,WR,Skill,SEC,190,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Aaron Anderson,WR,Skill,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+2026,Zavion Thomas,WR,Skill,SEC,89,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,J. Michael Sturdivant,WR,Skill,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Kendrick Law,WR,Skill,SEC,168,3,2,Rounds 6-7,Rounds 4-5,Incorrect,1
+2026,Chase Roberts,WR,Skill,Big 12,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,CJ Daniels,WR,Skill,ACC,197,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,De'Zhaun Stribling,WR,Skill,SEC,33,1,2,Rounds 2-3,Rounds 4-5,Incorrect,1
+2026,Harrison Wallace III,WR,Skill,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Kaden Wetjen,WR,Skill,Big Ten,121,2,1,Rounds 4-5,Rounds 2-3,Incorrect,1
+2026,Caullin Lacy,WR,Skill,ACC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Colbie Young,WR,Skill,SEC,140,2,2,Rounds 4-5,Rounds 4-5,Correct,0
+2026,Caleb Douglas,WR,Skill,Big 12,75,1,3,Rounds 2-3,Rounds 6-7,Incorrect,2
+2026,Jordan Hudson,WR,Skill,ACC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Donaven McCulley,WR,Skill,Big Ten,300,4,3,Undrafted,Rounds 6-7,Incorrect,1
+2026,Dillon Bell,WR,Skill,SEC,300,4,2,Undrafted,Rounds 4-5,Incorrect,2
+2026,Emmanuel Henderson Jr.,WR,Skill,Big 12,199,3,4,Rounds 6-7,Undrafted,Incorrect,1
+2026,Malik Benson,WR,Skill,Big Ten,195,3,3,Rounds 6-7,Rounds 6-7,Correct,0
+2026,Chris Hilton Jr.,WR,Skill,SEC,300,4,3,Undrafted,Rounds 6-7,Incorrect,1

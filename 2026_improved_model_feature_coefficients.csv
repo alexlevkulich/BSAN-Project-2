@@ -1,0 +1,68 @@
+Feature,Coefficient
+num__National Award,-2.3259618161539013
+cat__Position_OT,-0.48231065883854324
+cat__Position_QB,-0.4818492177365426
+num__40-Yard Dash (seconds),0.4536054104524854
+num__Hand (inches),-0.3790428719542544
+cat__Position_IOL,0.3409193883178315
+cat__Conference_Pac-12,-0.2978158192583642
+cat__Position_RB,0.23087074604129668
+cat__Position_CB,-0.22590955916120642
+cat__Position_EDGE,-0.20422645426031305
+cat__Position Group_Special Teams,0.20398149978875452
+num__3-Cone (seconds),0.18763621315127324
+cat__Position Group_DL,-0.17745916217421695
+cat__Position_C,0.16722295063678988
+cat__Position_LB,0.16722249719137536
+cat__Position Group_LB,0.16722249719137536
+cat__Conference_MAC,-0.14146408412349068
+cat__Conference_Big Ten,-0.1350951521196162
+cat__Conference_Sun Belt,0.13024580574061784
+cat__Position_S,0.12616193851119317
+cat__Position Group_Skill,-0.11984824381425338
+cat__Position_TE,0.11508460507218223
+num__Combine Participation,0.10878128638533167
+cat__Position_K,0.10432927681833397
+cat__Position Group_Secondary,-0.09974762065024273
+cat__Conference_Mountain West,0.08561992060189298
+cat__Position_P,0.08228524523500291
+cat__Conference_FBS Independent,0.07841726768495795
+cat__Conference_ACC,-0.07534536284258816
+cat__Conference_CAA,0.06368761889875223
+num__Height (inches),0.05881442637294193
+num__FPI,-0.05703324073221733
+num__Vertical (inches),-0.054661101110384774
+cat__Conference_SWAC,0.04861436925384032
+num__Efficiencies Overall,0.04702499463105125
+cat__Conference_Patriot League,0.03877048811417349
+num__Broad Jump (inches),-0.03655110178102455
+num__CFP Appearance,-0.03378408264549768
+cat__Conference_Big Sky,0.02708328791785246
+cat__Position_DL,0.026767292085930355
+cat__Position Group_OL,0.025831680116445693
+cat__Conference_AAC,0.025561620360504526
+cat__Conference_MEAC,0.02421857481698275
+cat__Conference_Big 12,-0.023837924855723176
+cat__Conference_CIAA,0.02334965191346449
+cat__Conference_NSIC,0.02243565032465131
+cat__Position_FB,0.021810761358747197
+num__Bench (reps),0.021774192272102123
+cat__Conference_SoCon,0.02163170027391869
+num__Efficiencies Defense,-0.020808623810309776
+num__Efficiencies Offense,-0.020764671951620076
+cat__Conference_GLIAC,0.02043774860349351
+cat__Conference_PSAC,0.0190476711797024
+cat__Conference_MVFC,0.017579718518750027
+cat__Position_LS,0.017366977735777056
+cat__Conference_UAC,0.0164970381893072
+cat__Conference_OVC-Big South,0.015527720518987504
+num__Weight(lbs),-0.01494611784343832
+cat__Conference_Conference USA,0.013168509267870573
+num__Efficiencies SpecialTeams,-0.010738092414567892
+cat__Conference_SEC,-0.008931731544837968
+num__Shuttle (seconds),-0.007515715368609843
+num__Wingspan (inches),-0.0063515856769800795
+cat__Conference_Southland,-0.006289754767068584
+cat__Position_WR,-0.005765138548481624
+num__Season,0.004096586919503257
+cat__Conference_Ivy League,-0.0031338822094271516

@@ -1,0 +1,308 @@
+Player,Position,Conference,Overall Pick,Actual Tier,Predicted Tier,Actual Tier Label,Predicted Tier Label,Correct,Ordinal Error
+Chris Adams,OT,AAC,300,4,4,Undrafted,Undrafted,Correct,0
+Austin Barber,OT,SEC,86,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Markel Bell,OT,ACC,68,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Jude Bowry,OT,ACC,102,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Travis Burke,OT,AAC,117,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Kage Casey,OT,Mountain West,111,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Dametrious Crownover,OT,SEC,196,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Enrique Cruz Jr.,OT,Big 12,179,3,4,Rounds 6-7,Undrafted,Incorrect,1
+J.C. Davis,OT,Big Ten,192,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Fa'alili Fa'amoe,OT,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Spencer Fano,OT,Big 12,9,0,4,Round 1,Undrafted,Incorrect,4
+Monroe Freeling,OT,SEC,19,0,4,Round 1,Undrafted,Incorrect,4
+Alan Herron,OT,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Max Iheanachor,OT,Big 12,21,0,4,Round 1,Undrafted,Incorrect,4
+Caleb Lomu,OT,Big 12,28,0,4,Round 1,Undrafted,Incorrect,4
+Francis Mauigoa,OT,ACC,10,0,4,Round 1,Undrafted,Incorrect,4
+Blake Miller,OT,ACC,17,0,4,Round 1,Undrafted,Incorrect,4
+Diego Pounds,OT,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Kadyn Proctor,OT,SEC,12,0,4,Round 1,Undrafted,Incorrect,4
+Drew Shelton,OT,Big Ten,112,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Caleb Tiernan,OT,Big Ten,97,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Keagen Trost,OT,SEC,93,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Aamil Wagner,OT,FBS Independent,300,4,4,Undrafted,Undrafted,Correct,0
+Carver Willis,OT,Big Ten,127,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Sonny Styles,LB,Big Ten,7,0,4,Round 1,Undrafted,Incorrect,4
+Anthony Hill,LB,SEC,60,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Jake Golday,LB,Big 12,51,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Josiah Trotter,LB,SEC,46,1,4,Rounds 2-3,Undrafted,Incorrect,3
+CJ Allen,LB,SEC,53,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Kyle Louis,LB,ACC,138,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Jacob Rodriguez,LB,Big 12,43,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Lander Barton,LB,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Harold Perkins Jr.,LB,SEC,215,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Red Murdock,LB,MAC,257,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Keyshaun Elliott,LB,Big 12,166,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Deontae Lawson,LB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Bryce Boettcher,LB,Big Ten,135,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Taurean York,LB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Jimmy Rolder,LB,Big Ten,118,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Aiden Fisher,LB,Big Ten,243,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Wade Woodaz,LB,ACC,123,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Jack Kelly,LB,Big 12,193,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Kaleb Elarms-Orr,LB,Big 12,126,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Scooby Williams,LB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Justin Jefferson,LB,SEC,149,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Xavian Sorey,LB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Namdi Obiazor,LB,Big 12,212,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Owen Heinecke,LB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Kendal Daniels,LB,SEC,134,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Eric Gentry,LB,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Karson Sharar,LB,Big Ten,183,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Wesley Bissainthe,LB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Rueben Bain Jr.,EDGE,ACC,15,0,4,Round 1,Undrafted,Incorrect,4
+Arvell Reese,EDGE,Big Ten,5,0,4,Round 1,Undrafted,Incorrect,4
+David Bailey,EDGE,Big 12,2,0,4,Round 1,Undrafted,Incorrect,4
+Cashius Howell,EDGE,SEC,41,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Akheem Mesidor,EDGE,ACC,22,0,4,Round 1,Undrafted,Incorrect,4
+R Mason Thomas,EDGE,SEC,40,1,4,Rounds 2-3,Undrafted,Incorrect,3
+T.J. Parker,EDGE,ACC,35,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Anthony Lucas,EDGE,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Malachi Lawrence,EDGE,Big 12,23,0,4,Round 1,Undrafted,Incorrect,4
+Gabe Jacas,EDGE,Big Ten,55,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Joshua Josephs,EDGE,SEC,147,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Zion Young,EDGE,SEC,45,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Romello Height,EDGE,Big 12,70,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Keyron Crawford,EDGE,SEC,67,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Derrick Moore,EDGE,Big Ten,44,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Dani Dennis-Sutton,EDGE,Big Ten,120,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Nadame Tucker,EDGE,MAC,300,4,4,Undrafted,Undrafted,Correct,0
+Tyreak Sapp,EDGE,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Wesley Williams,EDGE,ACC,119,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Caden Curry,EDGE,Big Ten,214,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Quintayvious Hutchins,EDGE,ACC,247,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Trey Moore,EDGE,SEC,130,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Vincent Anthony Jr.,EDGE,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Logan Fano,EDGE,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Max Llewellyn,EDGE,Big Ten,238,3,4,Rounds 6-7,Undrafted,Incorrect,1
+George Gumbs Jr.,EDGE,SEC,156,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Patrick Payton,EDGE,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Aidan Hubbard,EDGE,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Jack Pyburn,EDGE,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Marvin Jones Jr.,EDGE,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Nyjalik Kelly,EDGE,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Mason Reiger,EDGE,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Peter Woods,DL,ACC,29,0,4,Round 1,Undrafted,Incorrect,4
+Lee Hunter,DL,Big 12,49,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Kayden McDonald,DL,Big Ten,36,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Keldric Faulk,DL,SEC,31,0,4,Round 1,Undrafted,Incorrect,4
+Christen Miller,DL,SEC,42,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Caleb Banks,DL,SEC,18,0,4,Round 1,Undrafted,Incorrect,4
+Jaishawn Barham,DL,Big Ten,92,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Chris McClellan,DL,SEC,77,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Rayshaun Benny,DL,Big Ten,250,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Domonique Orange,DL,Big 12,82,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Dontae Corleone,DL,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Nick Barrett,DL,SEC,145,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Darrell Jackson Jr.,DL,ACC,103,2,4,Rounds 4-5,Undrafted,Incorrect,2
+LT Overton,DL,SEC,137,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Tim Keenan,DL,SEC,232,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Zxavian Harris,DL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Skyler Gill-Howard,DL,Big 12,205,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Gracen Halton,DL,SEC,107,2,4,Rounds 4-5,Undrafted,Incorrect,2
+DeMonte Capehart,DL,ACC,155,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Albert Regis,DL,SEC,81,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Tyler Onyedim,DL,SEC,66,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Bryson Eason,DL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+David Gusta,DL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Brandon Cleveland,DL,ACC,229,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Zane Durant,DL,Big Ten,181,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Damonic Williams,DL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Gary Smith III,DL,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Cameron Ball,DL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Bobby Jamison-Travis,DL,SEC,186,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Deven Eastern,DL,Big Ten,242,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jackie Marshall,DL,Big 12,184,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Caleb Downs,SAF,Big Ten,11,0,4,Round 1,Undrafted,Incorrect,4
+Emmanuel McNeil-Warren,SAF,MAC,58,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Dillon Thieneman,SAF,Big Ten,25,0,4,Round 1,Undrafted,Incorrect,4
+Genesis Smith,SAF,Big 12,131,2,4,Rounds 4-5,Undrafted,Incorrect,2
+A.J. Haulcy,SAF,SEC,78,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Treydan Stukes,SAF,Big 12,38,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Zakee Wheatley,SAF,Big Ten,151,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Kamari Ramsey,SAF,Big Ten,141,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Robert Spears-Jennings,SAF,SEC,224,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Bud Clark,SAF,Big 12,64,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Bishop Fitzgerald,SAF,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+VJ Payne,SAF,Big 12,228,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Michael Taaffe,SAF,SEC,158,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Louis Moore,SAF,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Lorenzo Styles,SAF,Big Ten,172,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jakobe Thomas,SAF,ACC,98,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Jalon Kilgore,SAF,SEC,167,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Xavier Nwankpa,SAF,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+DeShon Singleton,SAF,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Jalen Huskey,SAF,Big Ten,100,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Ahmaad Moses,SAF,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Dalton Johnson,SAF,Big 12,150,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Kenyon Sadiq,TE,Big Ten,16,0,4,Round 1,Undrafted,Incorrect,4
+Michael Trigg,TE,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Eli Stowers,TE,SEC,54,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Nate Boerkircher,TE,SEC,56,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Max Klare,TE,Big Ten,61,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Josh Cuevas,TE,SEC,173,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jack Endries,TE,SEC,221,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Eli Raridon,TE,FBS Independent,95,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Will Kacmarek,TE,Big Ten,87,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Oscar Delp,TE,SEC,73,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Joe Royer,TE,Big 12,170,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Dallen Bentley,TE,Big 12,256,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Marlin Klein,TE,Big Ten,59,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Justin Joly,TE,ACC,152,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Sam Roush,TE,ACC,69,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Dae'Quan Wright,TE,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Tanner Koziol,TE,Big 12,164,3,4,Rounds 6-7,Undrafted,Incorrect,1
+John Michael Gyllenborg,TE,Mountain West,300,4,4,Undrafted,Undrafted,Correct,0
+Miles Kitselman,TE,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Bauer Sharp,TE,SEC,185,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Matthew Hibner,TE,ACC,133,2,4,Rounds 4-5,Undrafted,Incorrect,2
+DJ Rogers,TE,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Lake McRee,TE,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Riley Nowakowski,TE,Big Ten,169,3,4,Rounds 6-7,Undrafted,Incorrect,1
+RJ Maryland,TE,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Jaren Kanak,TE,SEC,225,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Khalil Dinkins,TE,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Fernando Mendoza,QB,Big Ten,1,0,4,Round 1,Undrafted,Incorrect,4
+Ty Simpson,QB,SEC,13,0,4,Round 1,Undrafted,Incorrect,4
+Garrett Nussmeier,QB,SEC,249,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Cade Klubnik,QB,ACC,110,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Drew Allar,QB,Big Ten,76,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Carson Beck,QB,ACC,65,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Behren Morton,QB,Big 12,234,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Sawyer Robertson,QB,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Luke Altmyer,QB,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Taylen Green,QB,SEC,182,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jalon Daniels,QB,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Diego Pavia,QB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Haynes King,QB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Joe Fagnano,QB,FBS Independent,300,4,4,Undrafted,Undrafted,Correct,0
+Joey Aguilar,QB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Jermod McCoy,CB,SEC,101,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Avieon Terrell,CB,ACC,48,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Mansoor Delane,CB,SEC,6,0,4,Round 1,Undrafted,Incorrect,4
+Colton Hood,CB,SEC,37,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Keith Abney,CB,Big 12,157,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Chris Johnson,CB,Mountain West,27,0,4,Round 1,Undrafted,Incorrect,4
+D'Angelo Ponds,CB,Big Ten,50,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Keionte Scott,CB,ACC,116,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Brandon Cisse,CB,SEC,52,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Devin Moore,CB,SEC,114,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Julian Neal,CB,SEC,99,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Will Lee III,CB,SEC,129,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Malik Muhammad,CB,SEC,124,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Davison Igbinosun,CB,Big Ten,62,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Daylen Everette,CB,SEC,85,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Chandler Rivers,CB,ACC,162,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Hezekiah Masses,CB,ACC,175,3,4,Rounds 6-7,Undrafted,Incorrect,1
+TJ Hall,CB,Big Ten,219,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Domani Jackson,CB,SEC,201,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Tacario Davis,CB,Big Ten,72,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Thaddeus Dixon,CB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Ephesians Prysock,CB,Big Ten,139,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Jaylon Guilbeau,CB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Andre Fuller,CB,MAC,236,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jadon Canady,CB,Big Ten,109,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Collin Wright,CB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Toriano Pride Jr.,CB,SEC,220,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Ahmari Harvey,CB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Latrell McCutchin,CB,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Avery Smith,CB,MAC,300,4,4,Undrafted,Undrafted,Correct,0
+Marcus Allen,CB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Jeremiyah Love,RB,FBS Independent,3,0,4,Round 1,Undrafted,Incorrect,4
+Jadarian Price,RB,FBS Independent,32,0,4,Round 1,Undrafted,Incorrect,4
+Kaytron Allen,RB,Big Ten,187,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jonah Coleman,RB,Big Ten,108,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Demond Claiborne,RB,ACC,198,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Emmett Johnson,RB,Big Ten,161,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Mike Washington,RB,SEC,122,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Seth McGowan,RB,SEC,237,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Robert Henry,RB,AAC,300,4,4,Undrafted,Undrafted,Correct,0
+Nicholas Singleton,RB,Big Ten,165,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Le'Veon Moss,RB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Jam Miller,RB,SEC,245,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Desmond Reid,RB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Eli Heidenreich,RB,AAC,230,3,4,Rounds 6-7,Undrafted,Incorrect,1
+J'Mari Taylor,RB,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Roman Hemby,RB,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Rahsul Faison,RB,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Max Bredeson,RB,Big Ten,159,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Adam Randall,RB,ACC,174,3,4,Rounds 6-7,Undrafted,Incorrect,1
+CJ Donaldson,RB,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Noah Whittington,RB,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Olaivavega Ioane,IOL,Big Ten,14,0,4,Round 1,Undrafted,Incorrect,4
+Connor Lew,IOL,SEC,128,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Trey Zuhn III,IOL,SEC,91,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Chase Bisontis,IOL,SEC,34,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Emmanuel Pregnon,IOL,Big Ten,88,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Gennings Dunker,IOL,Big Ten,96,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Billy Schrauth,IOL,FBS Independent,160,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Alex Harkey,IOL,Big Ten,206,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Parker Brailsford,IOL,SEC,146,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Keylan Rutledge,IOL,ACC,26,0,4,Round 1,Undrafted,Incorrect,4
+Jake Slaughter,IOL,SEC,63,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Brian Parker II,IOL,ACC,189,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jager Burton,IOL,SEC,153,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Matt Gulbin,IOL,Big Ten,209,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Logan Jones,IOL,Big Ten,57,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Ar'maj Reed-Adams,IOL,SEC,241,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jalen Farmer,IOL,SEC,113,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Pat Coogan,IOL,Big Ten,194,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Beau Stephens,IOL,Big Ten,148,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Sam Hecht,IOL,Big 12,144,2,4,Rounds 4-5,Undrafted,Incorrect,2
+DJ Campbell,IOL,SEC,200,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Evan Beerntsen,IOL,Big Ten,253,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Garrett DiGiorgio,IOL,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Anez Cooper,IOL,ACC,188,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Joshua Braun,IOL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Jaeden Roberts,IOL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Dillon Wade,IOL,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Micah Morris,IOL,SEC,207,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Febechi Nwaiwu,IOL,SEC,106,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Fernando Carmona,IOL,SEC,142,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Logan Taylor,IOL,ACC,202,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Jeremiah Wright,IOL,SEC,132,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Jordyn Tyson,WR,Big 12,8,0,4,Round 1,Undrafted,Incorrect,4
+Carnell Tate,WR,Big Ten,4,0,4,Round 1,Undrafted,Incorrect,4
+Omar Cooper Jr.,WR,Big Ten,30,0,4,Round 1,Undrafted,Incorrect,4
+Makai Lemon,WR,Big Ten,20,0,4,Round 1,Undrafted,Incorrect,4
+KC Concepcion,WR,SEC,24,0,4,Round 1,Undrafted,Incorrect,4
+Denzel Boston,WR,Big Ten,39,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Germie Bernard,WR,SEC,47,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Brenen Thompson,WR,SEC,105,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Zachariah Branch,WR,SEC,79,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Chris Brazzell II,WR,SEC,83,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Malachi Fields,WR,FBS Independent,74,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Eric McAlister,WR,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Antonio Williams,WR,ACC,71,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Elijah Sarratt,WR,Big Ten,115,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Chris Bell,WR,ACC,94,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Kevin Coleman Jr.,WR,SEC,177,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Eric Rivers,WR,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Josh Cameron,WR,Big 12,191,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Vinny Anthony II,WR,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Skyler Bell,WR,FBS Independent,125,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Ted Hurst,WR,Sun Belt,84,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Jeff Caldwell,WR,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+Reggie Virgil,WR,Big 12,143,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Ja'Kobi Lane,WR,Big Ten,80,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Deion Burks,WR,SEC,254,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Barion Brown,WR,SEC,190,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Aaron Anderson,WR,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Zavion Thomas,WR,SEC,89,1,4,Rounds 2-3,Undrafted,Incorrect,3
+J. Michael Sturdivant,WR,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Kendrick Law,WR,SEC,168,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Chase Roberts,WR,Big 12,300,4,4,Undrafted,Undrafted,Correct,0
+CJ Daniels,WR,ACC,197,3,4,Rounds 6-7,Undrafted,Incorrect,1
+De'Zhaun Stribling,WR,SEC,33,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Harrison Wallace III,WR,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Kaden Wetjen,WR,Big Ten,121,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Caullin Lacy,WR,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Colbie Young,WR,SEC,140,2,4,Rounds 4-5,Undrafted,Incorrect,2
+Caleb Douglas,WR,Big 12,75,1,4,Rounds 2-3,Undrafted,Incorrect,3
+Jordan Hudson,WR,ACC,300,4,4,Undrafted,Undrafted,Correct,0
+Donaven McCulley,WR,Big Ten,300,4,4,Undrafted,Undrafted,Correct,0
+Dillon Bell,WR,SEC,300,4,4,Undrafted,Undrafted,Correct,0
+Emmanuel Henderson Jr.,WR,Big 12,199,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Malik Benson,WR,Big Ten,195,3,4,Rounds 6-7,Undrafted,Incorrect,1
+Chris Hilton Jr.,WR,SEC,300,4,4,Undrafted,Undrafted,Correct,0
