@@ -1,0 +1,63 @@
+Feature,Coefficient
+num__National Award,-2.533470415565874
+num__40-Yard Dash (seconds),1.3478535216779544
+cat__Conference_MAC,-1.0437807734108184
+cat__Position_QB,-0.8088610012345011
+cat__Position_OT,-0.7910018463174071
+cat__Conference_Mountain West,0.7691594805880526
+cat__Conference_CAA,0.7327285049511666
+cat__Conference_Pac-12,-0.6899448160266182
+cat__Position_RB,0.6366714931900034
+cat__Position Group_Special Teams,0.5996378632146003
+cat__Conference_SWAC,0.5781528637225822
+cat__Conference_Big Ten,-0.5375102852833298
+cat__Conference_SEC,-0.5318963447601528
+cat__Conference_ACC,-0.5035847339206926
+cat__Position Group_OL,-0.41256677559411253
+cat__Conference_AAC,-0.4083934435860149
+cat__Conference_CIAA,0.4063416379067837
+cat__Conference_MEAC,0.40264632742911705
+cat__Conference_Patriot League,0.3984445461763882
+cat__Conference_Sun Belt,0.3595791532458925
+cat__Conference_PSAC,0.34307981899060125
+num__Combine Participation,-0.3374811699262191
+cat__Conference_Ivy League,-0.3374427851829827
+cat__Conference_GLIAC,0.3311009161411811
+cat__Position_P,0.3241808780114934
+cat__Position_TE,-0.3113474687922167
+cat__Conference_Big Sky,0.31055744850375744
+cat__Position_FB,0.31018779049693235
+cat__Conference_Big 12,-0.30209609383562297
+cat__Conference_Southland,-0.27245835804882934
+cat__Conference_SoCon,0.2514645629595794
+cat__Position_WR,0.25119983285653547
+cat__Position_IOL,0.2501231784954999
+num__Hand (inches),-0.24987197817794354
+cat__Conference_FBS Independent,-0.23903317460782988
+cat__Position Group_DL,-0.23689655532442128
+cat__Conference_NSIC,0.2233958766897606
+cat__Position_S,0.20885647855808648
+cat__Conference_MVFC,-0.16468336805414463
+cat__Position_DL,-0.16277684539616152
+cat__Conference_OVC-Big South,0.15973069425960296
+cat__Position_LS,0.14880929907147133
+num__Height (inches),0.1411073603383471
+cat__Position_LB,0.1407437436364757
+cat__Position Group_LB,0.1407437436364757
+num__3-Cone (seconds),0.13848045793040767
+cat__Position_CB,-0.13176193380967438
+cat__Position_C,0.12831189222732287
+cat__Position_K,0.12664768613291344
+cat__Conference_UAC,0.08927799811357157
+cat__Conference_Conference USA,-0.07897218576833184
+cat__Position Group_Skill,0.07785064651205222
+cat__Position Group_Secondary,0.07709454474777797
+cat__Position_EDGE,-0.0741197099280197
+num__Vertical (inches),-0.042131117179459596
+num__Shuttle (seconds),-0.040120414979843755
+num__Broad Jump (inches),-0.03944163534157795
+num__Wingspan (inches),-0.02784028277384367
+num__FPI,-0.02763476005030697
+num__Weight(lbs),-0.014236094028230829
+num__Bench (reps),0.013571172120940087
+num__CFP Appearance,-0.0026559542452045657
