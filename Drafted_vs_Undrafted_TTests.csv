@@ -1,0 +1,19 @@
+Variable,Drafted Mean,Undrafted Mean,Difference,T-Statistic,P-Value
+National Award,0.1427,0.0144,0.1283,9.7414,0.0
+FPI,12.8459,9.8104,3.0354,5.0984,0.0
+Efficiencies Defense,67.6297,62.7474,4.8823,4.9605,0.0
+Efficiencies Overall,70.69,66.0095,4.6805,4.8012,0.0
+CFP Appearance,0.2335,0.1527,0.0808,3.3901,0.0007
+Vertical (inches),34.6372,33.7644,0.8728,2.8854,0.004
+Efficiencies Offense,65.8822,62.8227,3.0595,2.8196,0.005
+Broad Jump (inches),119.2772,117.7712,1.5061,2.3321,0.02
+Combine Participation,0.8076,0.7579,0.0496,1.8784,0.0608
+Hand (inches),9.5524,9.4851,0.0673,1.861,0.0632
+40-Yard Dash (seconds),4.7074,4.7422,-0.0349,-1.484,0.1382
+Weight(lbs),243.1168,240.2478,2.8689,0.9628,0.336
+Efficiencies SpecialTeams,51.6079,51.0312,0.5767,0.909,0.3637
+3-Cone (seconds),7.3453,7.2984,0.0469,0.8232,0.4106
+Bench (reps),22.2357,21.8818,0.3538,0.6696,0.5033
+Height (inches),74.222,74.3391,-0.1171,-0.4797,0.6317
+Shuttle (seconds),4.4779,4.4861,-0.0081,-0.3032,0.7618
+Wingspan (inches),77.9517,77.9391,0.0126,0.0458,0.9635
